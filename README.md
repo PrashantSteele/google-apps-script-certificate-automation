@@ -1,4 +1,3 @@
-# google-apps-script-certificate-automation
 # Google Apps Script Certificate Automation
 
 Automate bulk certificate generation using:
